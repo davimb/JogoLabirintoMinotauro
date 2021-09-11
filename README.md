@@ -10,16 +10,10 @@ Existe 3 dificuldades para o labirinto:
     -> Medio: 30x30
     -> Dificil: 50x50
 
-<<<<<<< HEAD
 Ainda existe 3 niveis de inteligencia para o minotauro:
     -> 1: O minotauro escolhe aleatoriamente uma direcao valida e da um passo a frente.
     -> 2: O minotauro da 2 passos consecutivos. Para cada passo, ele o escolhe aleatoriamente seguindo uma direcao valida como descrito no item acima
     -> 3: O minotauro escolhe uma direcao valida que mais se aproxima do personagem e da um passo a frente.
-=======
-Ainda existe 3 niveis de inteligencia para o minotauro:                                                                                                                                 -1: O minotauro escolhe aleatoriamente uma direcao valida e da um passo a frente.
-    -2: O minotauro da 2 passos consecutivos. Para cada passo, ele o escolhe aleatoriamente seguindo uma direcao valida como descrito no item acima
-    -3: O minotauro escolhe uma direcao valida que mais se aproxima do personagem e da um passo a frente.
->>>>>>> 4146a92e0fc098777624b22effe11bfec80dd6f1
 
 
 # Instruções para jogar
